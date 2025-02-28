@@ -1,0 +1,10 @@
+1. The base of a number system tells you how many digits there are and the place values. For base 14, there are 14 digits, |{0,1,2,3,4,5,6,7,8,9,A,B,C,D}|=14, and the place values are increment powers of 14, 14^3 14^2 14^1 14^0 for a 4 place number.
+
+2. Some advantages of using binary digital electronics over analog electronics 
+Binary digital electronics are easier to copy data from. Since they use data in binary form, it can be copied over easily without any loss in quality.
+Binary digital electronics have more precision. It is in binary rather than a range of numbers.
+Binary digital electronics can store the same amount in a smaller area. Example: Analog clocks take up a lot of space. Digital clocks can show time on a smaller screen.
+
+3. Fetch: go to RAM and get instructions. Send instruction to IR and add 4 to PC. PC points to the address of the next instruction.
+Decode: IR's instructions are passed to the CTL, which decodes the instructions.
+Execute: ALU executes the instructions.
